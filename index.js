@@ -17,5 +17,5 @@ const urlalvo ='https://www.hurb.com/br/packages';
 
 
 
- //. await browser.close();
+ await browser.close();
 })();
